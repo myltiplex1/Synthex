@@ -4,9 +4,7 @@ Extracts synthesis parameters from PDF documents for various nanomaterial catego
 
 ---
 
-Try here: [Synthex](https://synthex-xsvh.onrender.com/)  
-                       or  
-Try here: [Synthex](https://synthex-z5euk99d3onqzkcctkjntg.streamlit.app/)  
+Try here: [Synthex](https://synthex-xsvh.onrender.com/)  or here: [Synthex](https://synthex-z5euk99d3onqzkcctkjntg.streamlit.app/)  
 
 ## 📖 Overview
 
