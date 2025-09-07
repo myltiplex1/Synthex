@@ -4,6 +4,10 @@ Extracts synthesis parameters from PDF documents for various nanomaterial catego
 
 ---
 
+Try here: [Synthex](https://synthex-xsvh.onrender.com/)  
+                       or
+Try here: [Synthex](https://synthex-z5euk99d3onqzkcctkjntg.streamlit.app/)  
+
 ## 📖 Overview
 
 This project provides a tool to extract synthesis parameters from nanomaterial-related PDFs and search for relevant papers online. The extraction process uses advanced natural language processing (NLP) with embeddings to identify and extract synthesis parameters, while the search functionality leverages the Serper Google Search API to find relevant papers.
